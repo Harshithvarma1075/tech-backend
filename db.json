@@ -1,0 +1,245 @@
+{
+  "technologies": [
+    {
+      "id": "1",
+      "name": "Artificial Intelligence",
+      "category": "Computer Science",
+      "level": "Advanced",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995",
+      "description": "Artificial Intelligence enables machines to simulate human intelligence and decision making.",
+      "inventedBy": "John McCarthy",
+      "introduced": "1956",
+      "demand": "Very High",
+      "salaryRange": "8-25 LPA",
+      "applications": "Chatbots, Healthcare, Automation",
+      "companies": [
+        "OpenAI",
+        "Google",
+        "Microsoft",
+        "Meta"
+      ],
+      "rating": 4.9
+    },
+    {
+      "id": "2",
+      "name": "Machine Learning",
+      "category": "Artificial Intelligence",
+      "level": "Intermediate",
+      "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935",
+      "description": "Machine Learning allows systems to learn patterns from data without explicit programming.",
+      "inventedBy": "Arthur Samuel",
+      "introduced": "1959",
+      "demand": "High",
+      "salaryRange": "7-20 LPA",
+      "applications": "Prediction, Recommendation Systems",
+      "companies": [
+        "Amazon",
+        "Netflix",
+        "Tesla",
+        "Spotify"
+      ],
+      "rating": 4.8
+    },
+    {
+      "id": "3",
+      "name": "Blockchain",
+      "category": "Distributed Systems",
+      "level": "Advanced",
+      "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55",
+      "description": "Blockchain is a decentralized ledger technology that securely records transactions.",
+      "inventedBy": "Satoshi Nakamoto",
+      "introduced": "2008",
+      "demand": "Growing",
+      "salaryRange": "10-30 LPA",
+      "applications": "Cryptocurrency, Smart Contracts",
+      "companies": [
+        "Ethereum",
+        "Polygon",
+        "Binance",
+        "Coinbase"
+      ],
+      "rating": 4.7
+    },
+    {
+      "id": "4",
+      "name": "Cloud Computing",
+      "category": "Software Engineering",
+      "level": "Intermediate",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+      "description": "Cloud Computing delivers computing services like storage, servers, databases, and software over the internet.",
+      "inventedBy": "Multiple Contributors",
+      "introduced": "2006",
+      "demand": "Very High",
+      "salaryRange": "8-26 LPA",
+      "applications": "Web Hosting, Scalable Applications, Data Storage",
+      "companies": [
+        "Amazon Web Services",
+        "Microsoft Azure",
+        "Google Cloud",
+        "Oracle"
+      ],
+      "rating": 4.8
+    },
+    {
+      "id": "5",
+      "name": "Cybersecurity",
+      "category": "Computer Science",
+      "level": "Advanced",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b",
+      "description": "Cybersecurity protects systems, networks, and data from unauthorized access and digital attacks.",
+      "inventedBy": "Multiple Contributors",
+      "introduced": "1970s",
+      "demand": "Very High",
+      "salaryRange": "7-24 LPA",
+      "applications": "Network Security, Threat Detection, Data Protection",
+      "companies": [
+        "Palo Alto Networks",
+        "Cisco",
+        "IBM",
+        "CrowdStrike"
+      ],
+      "rating": 4.7
+    },
+    {
+      "id": "6",
+      "name": "Data Science",
+      "category": "Analytics",
+      "level": "Intermediate",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
+      "description": "Data Science combines statistics, programming, and business knowledge to extract insights from data.",
+      "inventedBy": "Multiple Contributors",
+      "introduced": "2000s",
+      "demand": "Very High",
+      "salaryRange": "8-25 LPA",
+      "applications": "Business Analytics, Forecasting, Data Visualization",
+      "companies": [
+        "Netflix",
+        "Uber",
+        "Amazon",
+        "Flipkart"
+      ],
+      "rating": 4.9
+    },
+    {
+      "id": "7",
+      "name": "Internet of Things",
+      "category": "Embedded Systems",
+      "level": "Intermediate",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+      "description": "IoT connects physical devices to the internet for monitoring and automation.",
+      "inventedBy": "Kevin Ashton",
+      "introduced": "1999",
+      "demand": "Growing",
+      "salaryRange": "6-18 LPA",
+      "applications": "Smart Homes, Smart Cities, Industrial Automation",
+      "companies": [
+        "Bosch",
+        "Intel",
+        "Samsung",
+        "Siemens"
+      ],
+      "rating": 4.6
+    },
+    {
+      "id": "8",
+      "name": "DevOps",
+      "category": "Software Engineering",
+      "level": "Intermediate",
+      "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c",
+      "description": "DevOps combines development and operations to improve software delivery speed and reliability.",
+      "inventedBy": "Patrick Debois",
+      "introduced": "2009",
+      "demand": "High",
+      "salaryRange": "8-28 LPA",
+      "applications": "CI/CD, Automation, Cloud Deployment",
+      "companies": [
+        "Google",
+        "Amazon",
+        "Microsoft",
+        "Atlassian"
+      ],
+      "rating": 4.8
+    },
+    {
+      "id": "9",
+      "name": "React",
+      "category": "Software Engineering",
+      "level": "Intermediate",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee",
+      "description": "React is a JavaScript library used to build fast and interactive user interfaces with reusable components.",
+      "inventedBy": "Jordan Walke",
+      "introduced": "2013",
+      "demand": "Very High",
+      "salaryRange": "5-18 LPA",
+      "applications": "Single Page Applications, Dashboards, Web Platforms",
+      "companies": [
+        "Meta",
+        "Netflix",
+        "Airbnb",
+        "Uber"
+      ],
+      "rating": 4.8
+    },
+    {
+      "id": "10",
+      "name": "Generative AI",
+      "category": "Artificial Intelligence",
+      "level": "Advanced",
+      "image": "https://images.unsplash.com/photo-1674027444485-cec3da58eef4",
+      "description": "Generative AI creates new content such as text, images, code, and audio using advanced machine learning models.",
+      "inventedBy": "Multiple Contributors",
+      "introduced": "2014",
+      "demand": "Very High",
+      "salaryRange": "10-30 LPA",
+      "applications": "Content Creation, Coding Assistants, Design Tools",
+      "companies": [
+        "OpenAI",
+        "Google",
+        "Adobe",
+        "Microsoft"
+      ],
+      "rating": 4.9
+    },
+    {
+      "id": "11",
+      "name": "Big Data",
+      "category": "Analytics",
+      "level": "Advanced",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+      "description": "Big Data focuses on processing and analyzing large datasets to discover patterns and support business decisions.",
+      "inventedBy": "Multiple Contributors",
+      "introduced": "1990s",
+      "demand": "High",
+      "salaryRange": "7-22 LPA",
+      "applications": "Data Pipelines, Customer Analytics, Real-Time Processing",
+      "companies": [
+        "Cloudera",
+        "Databricks",
+        "Amazon",
+        "Google"
+      ],
+      "rating": 4.6
+    },
+    {
+      "id": "12",
+      "name": "Robotics",
+      "category": "Embedded Systems",
+      "level": "Advanced",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e",
+      "description": "Robotics combines hardware, software, sensors, and control systems to build machines that perform tasks automatically.",
+      "inventedBy": "George Devol",
+      "introduced": "1954",
+      "demand": "Growing",
+      "salaryRange": "6-20 LPA",
+      "applications": "Manufacturing, Healthcare, Warehousing, Space Exploration",
+      "companies": [
+        "Boston Dynamics",
+        "ABB",
+        "Tesla",
+        "Fanuc"
+      ],
+      "rating": 4.6
+    }
+  ]
+  
+}
